@@ -1,7 +1,7 @@
 {
   "name": "ninvoke",
   "author": "jden <jason@denizac.org>",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Call a Node callback style method and return a Promise",
   "keywords": [
     "Promises/A+",
